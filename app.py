@@ -1,4 +1,4 @@
-# NAMA : HANIFAN HUSEIN ISNANTO
+# NAMA : HANIFAN HUSEIN ISNANTO (19090006)
 # KELAS : 6 C
 
 from crypt import methods
